@@ -1,0 +1,6 @@
+token "{"           pos( 1, 1) code(52) symbol:ERROR
+token "this"        pos( 1, 2) code(44) symbol:ID
+token "is"          pos( 1, 7) code(44) symbol:ID
+token "not"         pos( 1,10) code(44) symbol:ID
+token "a"           pos( 1,14) code(44) symbol:ID
+token "comment"     pos( 1,16) code(44) symbol:ID
